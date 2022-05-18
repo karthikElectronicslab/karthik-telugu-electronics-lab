@@ -180,3 +180,10 @@ h2{
     border-radius: 30px;
     
 }
+.copy_right{
+    font-size:15px;
+    color: white;
+    text-align: right;
+    margin-right: 10px;
+    line-height: 2px;
+}
