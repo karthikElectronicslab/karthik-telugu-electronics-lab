@@ -191,3 +191,7 @@ h2{
 .container:hover{
     transform: scale(1.2);
 }
+.container{
+    transition-property:transform;
+    transition-duration: 1s;
+}
