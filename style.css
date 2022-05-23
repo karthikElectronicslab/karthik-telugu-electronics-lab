@@ -188,10 +188,10 @@ h2{
     line-height: 2px;
 }
 
-.container:hover{
+.embed-responsive-item:hover{
     transform: scale(1.2);
 }
-.container{
+.embed-responsive-item{
     transition-property:transform;
     transition-duration: 1s;
 }
